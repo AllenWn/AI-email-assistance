@@ -1,1 +1,2 @@
-# AI-email-assistance
+# AI-app
+
